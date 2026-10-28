@@ -15,10 +15,6 @@ estrategias de imputación, para compararlas empíricamente en la fase de modela
 | `amazon_sales_data_uncleaned.csv` | **Entrada.** Dataset crudo tal como sale del scraping (42.675 filas × 16 columnas). |
 | `limpieza_4_datasets.ipynb` | **Notebook guía.** Pipeline completo, paso a paso y documentado. Es el script principal del proyecto. |
 | `LIMPIEZA_DATOS.md` | **Documento técnico.** Explica cada decisión de limpieza con sus cifras y justificación. |
-| `dataset_v1.csv` | Salida: precio → *eliminar fila*, delivery → *imputar 0* (24.436 × 20). |
-| `dataset_v2.csv` | Salida: precio → *eliminar fila*, delivery → *sin columna* (24.436 × 18). |
-| `dataset_v3.csv` | Salida: precio → *imputar mediana*, delivery → *imputar 0* (31.202 × 20). |
-| `dataset_v4.csv` | Salida: precio → *imputar mediana*, delivery → *sin columna* (31.202 × 18). |
 | `README.md` | Este archivo. |
 
 ---
