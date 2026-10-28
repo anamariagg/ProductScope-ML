@@ -15,6 +15,7 @@ estrategias de imputación, para compararlas empíricamente en la fase de modela
 | `amazon_sales_data_uncleaned.csv` | **Entrada.** Dataset crudo tal como sale del scraping (42.675 filas × 16 columnas). |
 | `limpieza_4_datasets.ipynb` | **Notebook guía.** Pipeline completo, paso a paso y documentado. Es el script principal del proyecto. |
 | `LIMPIEZA_DATOS.md` | **Documento técnico.** Explica cada decisión de limpieza con sus cifras y justificación. |
+| `VARIABLES.md` | **Documento técnico.** Explica el significado de cada variable antes y despues de la limpieza |
 | `README.md` | Este archivo. |
 
 ---
