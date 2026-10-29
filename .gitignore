@@ -1,0 +1,33 @@
+# ============================================================
+# .gitignore — ProductScope-ML
+# Archivos que NO deben subirse al repositorio
+# ============================================================
+
+# --- Entorno virtual ---
+.venv/
+venv/
+env/
+
+# --- Carpeta con notebooks de ejemplo ---
+Modelos de ejemplo/
+
+# --- Temporales de Python / Jupyter ---
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+.ipynb_checkpoints*
+
+# --- Salidas del notebook KNN (se regeneran al ejecutar) ---
+_chk_knn.ipynb
+*.log
+
+# --- Archivos temporales de scripts auxiliares ---
+_*.py
+*~
+
+# --- Sistema operativo / editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
