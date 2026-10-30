@@ -34,6 +34,7 @@ Amazon product sales/
 | **`Limpieza de datos/`** | Todo el pipeline: CSV de entrada, notebook, los 4 datasets generados y la documentación técnica (`LIMPIEZA_DATOS.md`, `VARIABLES.md`). |
 | **`Modelos de ejemplo/`** | Notebooks de laboratorio usados como referencia. |
 | **`Modelos entrenados/`** | Carpeta para guardar los modelos entrenados (artefactos `.pkl`, `.joblib`, reportes). |
+| **`Informes`** | Carpeta la cual guarda los respectivos informes E1 y E2 en sus diferentes versiones |
 
 > **Nota:** el pipeline trabaja con rutas relativas a la carpeta `Limpieza de datos/`, así que el
 > notebook debe ejecutarse **desde dentro de esa carpeta** (ver más abajo).
