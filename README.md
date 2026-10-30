@@ -1,4 +1,8 @@
 # Amazon Product Sales — ProductScope-ML
+- Sebastian B. Ruiz - s.barrera@udea.edu.co
+- Ana Maria G. Grisales - Anam.garzon@udea.edu.co
+- Juan F. Mona Cano - juanf.mona@udea.edu.co 
+---
 
 Pipeline de limpieza y transformación del dataset de productos de Amazon, con el objetivo de
 preparar los datos para modelar el **volumen de ventas recientes** (`bought_in_last_month`).
