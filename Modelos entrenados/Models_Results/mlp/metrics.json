@@ -1,0 +1,26 @@
+{
+  "model": "MLPRegressor",
+  "selected_candidate": "MLP optimizada",
+  "target": "log_bought",
+  "dataset": "..\\Limpieza de datos\\dataset_v4.csv",
+  "random_state": 0,
+  "n_train": 21841,
+  "n_validation": 4680,
+  "n_test": 4681,
+  "metrics_log_scale": {
+    "MAE": 0.24812997375565662,
+    "RMSE": 0.5393662092726781,
+    "R2": 0.7950152165478259
+  },
+  "metrics_original_scale": {
+    "MAE": 351.390689110219,
+    "RMSE": 2498.7688374194486,
+    "R2": 0.7727795066830188,
+    "RMSLE": 0.5393662092726781
+  },
+  "training_seconds_final": 67.0435350999469,
+  "prediction_seconds_test": 0.05309129995293915,
+  "search_seconds": 764.8978763999185,
+  "iterations_final": 143,
+  "max_iter": 500
+}
