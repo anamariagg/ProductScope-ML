@@ -1,10 +1,15 @@
 {
-    "MAE_log": 0.6081214621129808,
-    "RMSE_log": 0.8775967954118178,
-    "R2_log": 0.47999461752033246,
-    "MAE_original": 990.8810578582807,
-    "RMSE_original": 5661.950133287779,
-    "R2_original": 0.0726546784806078,
-    "RMSLE_original": 0.8775967954118178,
-    "best_alpha": 0.0001
+    "MAE_log": 0.6080690327707895,
+    "RMSE_log": 0.8776083523038583,
+    "R2_log": 0.47998092174189055,
+    "MAE_original": 990.9094108036114,
+    "RMSE_original": 5662.553917479714,
+    "R2_original": 0.07245688574599984,
+    "RMSLE_original": 0.8776083523038583,
+    "best_alpha": 31.622776601683793,
+    "cv_strategy": "KFold",
+    "cv_n_splits": 5,
+    "cv_rmse_log": 0.854973325645925,
+    "development_train_rows": 26521,
+    "test_rows": 4681
 }

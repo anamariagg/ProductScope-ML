@@ -1,0 +1,13 @@
+{
+    "model": "Ridge",
+    "best_alpha": 31.622776601683793,
+    "cv": "KFold",
+    "n_splits": 5,
+    "shuffle": true,
+    "random_state": 0,
+    "scoring": "neg_root_mean_squared_error",
+    "best_cv_rmse_log": 0.854973325645925,
+    "alpha_grid_min": 1e-08,
+    "alpha_grid_max": 10000.0,
+    "alpha_grid_size": 49
+}
